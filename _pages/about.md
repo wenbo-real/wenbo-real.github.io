@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>PhD</a>
+subtitle: <a href='#'>PhD</a>, <a href='https://www.hamilton.edu/academics/our-faculty/directory/faculty-detail/wenbo-wang'>Visiting Assistant Professor of Computer Science</a>
 
 profile:
   align: right
