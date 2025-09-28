@@ -17,18 +17,11 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-life",
-          title: "Life",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/life/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-life",
+          title: "Life",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/life/";
           },
         },{id: "post-a-post-with-plotly-js",
         
