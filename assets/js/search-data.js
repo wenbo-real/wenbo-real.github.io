@@ -401,6 +401,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-43-new-faculty-members-join-hamilton-for-2025-26-academic-year",
+          title: '43 New Faculty Members Join Hamilton for 2025-26 Academic Year',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-envismetrics",
           title: 'Envismetrics',
           description: "A comprehensive toolbox for the interpretation of results across various electrochemical techniques.",
