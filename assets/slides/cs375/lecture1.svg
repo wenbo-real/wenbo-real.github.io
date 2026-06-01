@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="576" viewBox="0 0 1024 576">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="10" y="10" width="1004" height="556" fill="#f7f7f9" stroke="#e1e1e8"/>
+  <text x="40" y="110" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#222">CS 375 — Lecture 1</text>
+  <text x="40" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#444">Click the image to open the PDF slides.</text>
+  <rect x="40" y="220" width="440" height="200" fill="#e8eef8" stroke="#c6d6f5"/>
+  <text x="60" y="310" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#2a4f8a">Slide preview (placeholder)</text>
+</svg>

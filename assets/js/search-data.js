@@ -312,17 +312,6 @@ ninja.data = [{
             window.location.href = "/blog/2021/distill/";
           
         },
-      },{id: "post-a-post-with-twitter",
-        
-          title: "a post with twitter",
-        
-        description: "an example of a blog post with twitter",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/twitter/";
-          
-        },
       },{id: "post-a-post-with-disqus-comments",
         
           title: "a post with disqus comments",
@@ -406,6 +395,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
+            },},{id: "news-hamilton-students-quot-amirecyclable-quot-app-featured-by-local-tv-and-newspaper",
+          title: 'Hamilton Students’ &amp;quot;AmIRecyclable&amp;quot; App Featured by Local TV and Newspaper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "projects-envismetrics",
           title: 'Envismetrics',
           description: "A comprehensive toolbox for the interpretation of results across various electrochemical techniques.",
