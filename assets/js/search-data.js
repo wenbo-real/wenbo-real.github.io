@@ -395,8 +395,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-hamilton-students-quot-amirecyclable-quot-app-featured-by-local-tv-and-newspaper",
-          title: 'Hamilton Students’ &amp;quot;AmIRecyclable&amp;quot; App Featured by Local TV and Newspaper',
+            },},{id: "news-hamilton-students-amirecyclable-app-featured-by-local-tv-and-newspaper",
+          title: 'Hamilton Students’ AmIRecyclable App Featured by Local TV and Newspaper',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
