@@ -41,3 +41,13 @@ The first course in computer science is an introduction to algorithmic problem-s
 Exploration of AI theory and philosophy, as well as a variety of algorithms and data structures, such as heuristic strategies, logic unification, probabilistic reasoning, semantic networks and knowledge representation. Topics include application areas such as natural language understanding, computer vision, game playing, theorem proving and autonomous agents. Programming intensive.
 
 Cross Listed Courses: NEURO-375; Prerequisites: CPSCI 220
+
+## CS 375 Slides
+
+<div class="course-slides">
+	<a href="/assets/slides/cs375/lecture1.pdf" target="_blank">
+		<img src="/assets/slides/cs375/lecture1.svg" alt="CS 375 — Lecture 1" style="max-width:360px; border:1px solid #ddd;" />
+	</a>
+</div>
+
+<!-- Add more slides by copying the block above and updating the href/src to the correct PDF/image paths -->
