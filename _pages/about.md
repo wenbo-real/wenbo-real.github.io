@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Wenbo Wang is currently (starting from July 2025) a Visiting Assistant Professor in the CS Department at Hamilton College (a top Little Ivy). He earned his Ph.D. from the Department of Informatics at NJIT, under the supervision of Dr. Brook Wu. His research interests include Machine Learning, Deep Learning, Software Security, Natural Language Processing, Large Language Models, etc.
+Wenbo Wang is currently (starting from July 2025) a Visiting Assistant Professor in the CS Department at Hamilton College (a top Little Ivy). He earned his Ph.D. from the Department of Informatics at NJIT, under the supervision of Dr. Brook Wu. His research interests include Machine Learning, Deep Learning, Software Security, Natural Language Processing, Large Language Models, etc. He is also an Associate Editor for IEEE Systems, Man, and Cybernetics (SMC) Society.
 
 [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/wenbo-wang-3461211a7/), [📖 Google Scholar](https://scholar.google.com/citations?user=sGzfUyAAAAAJ&hl=en&oi=ao)

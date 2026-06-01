@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hamilton Students’ "AmIRecyclable" App Featured by Local TV and Newspaper
+title: Hamilton Students’ AmIRecyclable App Featured by Local TV and Newspaper
 date: 2026-02-25 14:25:00-0400
 inline: false
 related_posts: false
